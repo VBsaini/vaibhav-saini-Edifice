@@ -6,17 +6,18 @@ On the AI side, I’m currently working on research papers focused on implementi
 When I'm not coding or researching, I'm either diving into new tech trends, exploring the latest in AI and web development, or brainstorming ideas for my next project. I'm excited to collaborate with like-minded individuals and showcase my work on GitHub.
 
 ## 💻 Projects:
+
 - **Bunkerz Inks**  
-  [Live Demo 🔗](https://musing-wiles-4f5a83.netlify.app/) 
-  A freelance project built with React a portfolio for a tatoo company.
+  [Live Demo 🔗](https://musing-wiles-4f5a83.netlify.app/)  
+  A freelance project built with React — a portfolio website for a tattoo company.
 
 - **Uprising Agency**  
   [Live Demo 🔗](https://frolicking-crisp-b94ec4.netlify.app/)  
-  Web app developed using React for multi-page company website.
+  Website developed using React for a multi-page company profile.
 
-- ****  
+- **FullMoon Cottage Kanatal**  
   [Live Demo 🔗](https://optimistic-leakey-13610f.netlify.app/)  
-  A content-based recommender system with a clean React frontend, delivered as a freelance solution for personalized movie discovery.
+  A React-based freelance landing page for a vacation cottage rental.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-b-saini)
