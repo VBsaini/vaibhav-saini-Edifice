@@ -1,6 +1,22 @@
 # 💫 About Me:
-Hi, I'm Vaibhav Saini, a AI-DS undergrad with a passion for Machine Learning and Deep Learning. I'm fascinated by its potential to transform industries and improve lives. Currently, I'm working on research papers focused on implementing ML algorithms to tackle real-world problems.<br><br>When I'm not coding or researching, I'm learning new concepts, reading about the latest AI developments, or brainstorming ideas for my next project. I'm excited to collaborate with like-minded individuals and showcase my projects on GitHub 
+Hi, I'm Vaibhav Saini, an AI-DS undergrad with a strong interest in both Machine Learning and Web Development. I’m passionate about using technology to solve real-world problems—whether it’s through smart algorithms or intuitive web applications.
+<br><br>
+On the AI side, I’m currently working on research papers focused on implementing ML and Deep Learning algorithms to address practical challenges. On the web development front, I enjoy building full-stack applications and experimenting with modern frameworks to bring user-friendly, scalable solutions to life.
+<br><br>
+When I'm not coding or researching, I'm either diving into new tech trends, exploring the latest in AI and web development, or brainstorming ideas for my next project. I'm excited to collaborate with like-minded individuals and showcase my work on GitHub.
 
+## 💻 Projects:
+- **Bunkerz Inks**  
+  [Live Demo 🔗](https://musing-wiles-4f5a83.netlify.app/) 
+  A freelance project built with React a portfolio for a tatoo company.
+
+- **Uprising Agency**  
+  [Live Demo 🔗](https://frolicking-crisp-b94ec4.netlify.app/)  
+  Web app developed using React for multi-page company website.
+
+- ****  
+  [Live Demo 🔗](https://optimistic-leakey-13610f.netlify.app/)  
+  A content-based recommender system with a clean React frontend, delivered as a freelance solution for personalized movie discovery.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-b-saini)
