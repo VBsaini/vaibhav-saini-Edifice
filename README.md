@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Vaibhav Saini, an AI-DS undergrad with a strong interest in both Machine Learning and Web Development. I’m passionate about using technology to solve real-world problems—whether it’s through smart algorithms or intuitive web applications.
-<br><br>
+<br><br> 
 On the AI side, I’m currently working on research papers focused on implementing ML and Deep Learning algorithms to address practical challenges. On the web development front, I enjoy building full-stack applications and experimenting with modern frameworks to bring user-friendly, scalable solutions to life.
 <br><br>
 When I'm not coding or researching, I'm either diving into new tech trends, exploring the latest in AI and web development, or brainstorming ideas for my next project. I'm excited to collaborate with like-minded individuals and showcase my work on GitHub.
